@@ -10,13 +10,13 @@
 <dict><key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://114.67.22.43:8100/go/BingoLink/ipms.ipa</string>
+<string>http://ipms.gzmtr.cn:8210/go/BingoLink/AppDownload/lmis/com.gzmetro.lmistest.ipa</string>
 </dict>
 </array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.gzmetro.ipms</string>
+<string>com.gzmetro.lmistest</string>
 <key>bundle-version</key>
 <string>1.0.5</string>
 <key>kind</key>
